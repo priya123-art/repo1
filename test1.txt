@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C2DB-43C8
+
+ Directory of C:\Users\a1399377\Desktop\Myporject
+
+07/14/2019  04:10 AM    <DIR>          .
+07/14/2019  04:10 AM    <DIR>          ..
+07/14/2019  04:10 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  27,546,071,040 bytes free
